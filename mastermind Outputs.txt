@@ -1,0 +1,438 @@
+                       MasterMind Outputs
+////////////////////
+ all guess are used:
+
+Name: Gurdev singh                               Course: Program design 
+ StudentId:100376466                             Section:003
+please tell me the size of number to generate it must be equal or grater than2 but less than or equal to 10
+9
+The number is : *********
+please guess number and all digits must be different.Type "ON" to know the answer
+123456789
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         1                         9                        3                       6                           *********
+please guess number and all digits must be different.Type "ON" to know the answer
+987654321
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         2                         9                        3                       6                           *********
+please guess number and all digits must be different.Type "ON" to know the answer
+678954321
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         3                         9                        2                       7                           *1*******
+please guess number and all digits must be different.Type "ON" to know the answer
+345698721
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         4                         9                        1                       8                           *1*******
+please guess number and all digits must be different.Type "ON" to know the answer
+215438967
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         5                         9                        1                       8                           *1*6*****
+please guess number and all digits must be different.Type "ON" to know the answer
+215678903
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         6                         8                        2                       6                           *1*6*****
+please guess number and all digits must be different.Type "ON" to know the answer
+125437689
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         7                         9                        2                       7                           *1*6*****
+please guess number and all digits must be different.Type "ON" to know the answer
+987123465
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         8                         9                        0                       9                           *1*6*2*8*
+please guess number and all digits must be different.Type "ON" to know the answer
+017632984  
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         9                         8                        4                       4                           *1*6*2*8*
+please guess number and all digits must be different.Type "ON" to know the answer
+123498765
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+        10                         9                        0                       9                           *1*6*2*8*
+The number is:714652389
+To be continue say continue or type "STOP" to stop
+stop
+ Thanks for playing this game :) :) 
+Your average performance  is 10
+////////////////////////////////////////////////
+
+when size is differnt of inputs of guessed number
+
+Name: Gurdev singh                               Course: Program design 
+ StudentId:100376466                             Section:003
+please tell me the size of number to generate it must be equal or grater than2 but less than or equal to 10
+7
+The number is : *******
+please guess number and all digits must be different.Type "ON" to know the answer
+123
+You guessed wrong number with  wrong size.So guess again
+234
+You guessed wrong number with  wrong size.So guess again
+65789
+You guessed wrong number with  wrong size.So guess again
+123456
+You guessed wrong number with  wrong size.So guess again
+789654
+You guessed wrong number with  wrong size.So guess again
+1234567
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         1                         6                        0                       6                           *******
+please guess number and all digits must be different.Type "ON" to know the answer
+1234567
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         2                         6                        0                       6                           *******
+please guess number and all digits must be different.Type "ON" to know the answer
+9876543
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         3                         6                        0                       6                           *3*****
+please guess number and all digits must be different.Type "ON" to know the answer
+1234568
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         4                         6                        0                       6                           *3*****
+please guess number and all digits must be different.Type "ON" to know the answer
+9876543
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         5                         6                        0                       6                           *3*7***
+please guess number and all digits must be different.Type "ON" to know the answer
+1234567
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         6                         6                        0                       6                           *3*7***
+please guess number and all digits must be different.Type "ON" to know the answer
+0987654
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         7                         5                        1                       4                           *3*7***
+please guess number and all digits must be different.Type "ON" to know the answer
+13478902
+You guessed wrong number with  wrong size.So guess again
+12347895
+You guessed wrong number with  wrong size.So guess again
+1234567
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         8                         6                        0                       6                           *3*7*8*
+please guess number and all digits must be different.Type "ON" to know the answer
+9873452 
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         9                         6                        1                       5                           *3*7*8*
+please guess number and all digits must be different.Type "ON" to know the answer
+1234568
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+        10                         6                        0                       6                           *3*7*8*
+The number is:2357486
+To be continue say continue or type "STOP" to stop
+stop
+ Thanks for playing this game :) :) 
+Your average performance  is 10
+PS C:\Users\gs882> 
+///////////////////////////////////
+
+when digits repeat itself
+
+Name: Gurdev singh                               Course: Program design 
+ StudentId:100376466                             Section:003
+please tell me the size of number to generate it must be equal or grater than2 but less than or equal to 10
+5
+The number is : *****
+please guess number and all digits must be different.Type "ON" to know the answer
+12344
+Your guessed number have repeated digits so try again with unique digits
+please guess number and all digits must be different.Type "ON" to know the answer
+54325
+Your guessed number have repeated digits so try again with unique digits
+please guess number and all digits must be different.Type "ON" to know the answer
+11234
+Your guessed number have repeated digits so try again with unique digits
+please guess number and all digits must be different.Type "ON" to know the answer
+12345
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         1                         2                        1                       1                           *****
+please guess number and all digits must be different.Type "ON" to know the answer
+54321
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         2                         2                        0                       2                           *****
+please guess number and all digits must be different.Type "ON" to know the answer
+12789
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         3                         4                        2                       2                           *2***
+please guess number and all digits must be different.Type "ON" to know the answer
+72345
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         4                         1                        1                       0                           *2***
+please guess number and all digits must be different.Type "ON" to know the answer
+789021
+You guessed wrong number with  wrong size.So guess again
+12345
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         5                         2                        1                       1                           *2*1*
+please guess number and all digits must be different.Type "ON" to know the answer
+56789
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         6                         3                        1                       2                           *2*1*
+please guess number and all digits must be different.Type "ON" to know the answer
+32617
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         7                         3                        2                       1                           *2*1*
+please guess number and all digits must be different.Type "ON" to know the answer
+52716
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         8                         3                        2                       1                           *2*1*
+please guess number and all digits must be different.Type "ON" to know the answer
+32815
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         9                         3                        3                       0                           *2*1*
+please guess number and all digits must be different.Type "ON" to know the answer
+42915
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+        10                         3                        2                       1                           *2*1*
+The number is:62819
+To be continue say continue or type "STOP" to stop
+contiue
+please tell me the size of number to generate it must be equal or grater than2 but less than or equal to 10
+2
+The number is : **
+please guess number and all digits must be different.Type "ON" to know the answer
+12
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         1                         0                        0                       0                           **
+please guess number and all digits must be different.Type "ON" to know the answer
+34
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         2                         0                        0                       0                           **
+please guess number and all digits must be different.Type "ON" to know the answer
+55
+Your guessed number have repeated digits so try again with unique digits
+please guess number and all digits must be different.Type "ON" to know the answer
+56
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         3                         2                        0                       2                           *5
+please guess number and all digits must be different.Type "ON" to know the answer
+65
+Good job ,You guess is right :)
+You take 4 Number of guess
+The number is:65
+To be continue say continue or type "STOP" to stop
+stop
+ Thanks for playing this game :) :) 
+Your average performance  is 6
+PS C:\Users\gs882> 
+////////////////////////////////////
+
+Using cheater mode:
+Name: Gurdev singh                               Course: Program design 
+ StudentId:100376466                             Section:003
+please tell me the size of number to generate it must be equal or grater than2 but less than or equal to 10
+6
+The number is : ******
+please guess number and all digits must be different.Type "ON" to know the answer
+123456
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         1                         3                        1                       2                           ******
+please guess number and all digits must be different.Type "ON" to know the answer
+on
+The number is:593867
+To be continue say continue or type "STOP" to stop
+cont
+please tell me the size of number to generate it must be equal or grater than2 but less than or equal to 10
+8
+The number is : ********
+please guess number and all digits must be different.Type "ON" to know the answer
+on
+The number is:48951237
+To be continue say continue or type "STOP" to stop
+/////////////////////////////////////////
+user enter letters:
+
+please tell me the size of number to generate it must be equal or grater than2 but less than or equal to 10
+8   
+The number is : ********
+please guess number and all digits must be different.Type "ON" to know the answer
+wbi
+Your guessed number do not contain digit at index:0 So please guess only digits
+hshiekf
+Your guessed number do not contain digit at index:0 So please guess only digits
+dewhidwie
+Your guessed number do not contain digit at index:0 So please guess only digits
+ekkdbiw
+Your guessed number do not contain digit at index:0 So please guess only digits
+shfs
+Your guessed number do not contain digit at index:0 So please guess only digits
+678h90
+Your guessed number do not contain digit at index:3 So please guess only digits
+15689g
+Your guessed number do not contain digit at index:5 So please guess only digits
+17t2t
+Your guessed number do not contain digit at index:2 So please guess only digits
+
+on
+The number is:89763154
+To be continue say continue or type "STOP" to stop
+stop
+ Thanks for playing this game :) :) 
+Your average performance  is 0
+PS C:\Users\gs882> 
+
+////////////////////////////////////
+work as long as user want
+Name: Gurdev singh                               Course: Program design 
+ StudentId:100376466                             Section:003
+please tell me the size of number to generate it must be equal or grater than2 but less than or equal to 10
+2
+The number is : **
+please guess number and all digits must be different.Type "ON" to know the answer
+12
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         1                         0                        0                       0                           **
+please guess number and all digits must be different.Type "ON" to know the answer
+23
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         2                         0                        0                       0                           **
+please guess number and all digits must be different.Type "ON" to know the answer
+45
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         3                         0                        0                       0                           *6
+please guess number and all digits must be different.Type "ON" to know the answer
+56
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         4                         1                        1                       0                           *6
+please guess number and all digits must be different.Type "ON" to know the answer
+76
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         5                         1                        1                       0                           *6
+please guess number and all digits must be different.Type "ON" to know the answer
+86
+Good job ,You guess is right :)
+You take 6 Number of guess
+The number is:86
+To be continue say continue or type "STOP" to stop
+continue
+please tell me the size of number to generate it must be equal or grater than2 but less than or equal to 10
+2
+The number is : **
+please guess number and all digits must be different.Type "ON" to know the answer
+12
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         1                         1                        1                       0                           **
+please guess number and all digits must be different.Type "ON" to know the answer
+45
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         2                         1                        0                       1                           **
+please guess number and all digits must be different.Type "ON" to know the answer
+14
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         3                         0                        0                       0                           *2
+please guess number and all digits must be different.Type "ON" to know the answer
+15
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         4                         1                        0                       1                           *2
+please guess number and all digits must be different.Type "ON" to know the answer
+52
+Good job ,You guess is right :)
+You take 5 Number of guess
+The number is:52
+To be continue say continue or type "STOP" to stop
+continue
+please tell me the size of number to generate it must be equal or grater than2 but less than or equal to 10
+2
+The number is : **
+please guess number and all digits must be different.Type "ON" to know the answer
+23
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         1                         1                        0                       1                           **
+please guess number and all digits must be different.Type "ON" to know the answer
+45
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         2                         0                        0                       0                           **
+please guess number and all digits must be different.Type "ON" to know the answer
+12
+Good job ,You guess is right :)
+You take 3 Number of guess
+The number is:12
+To be continue say continue or type "STOP" to stop
+stop
+ Thanks for playing this game :) :) 
+Your average performance  is 3
+PS C:\Users\gs882> 
+
+/////////////////////////
+calculate aveareg performance 
+
+Name: Gurdev singh                               Course: Program design 
+ StudentId:100376466                             Section:003
+please tell me the size of number to generate it must be equal or grater than2 but less than or equal to 10
+3
+The number is : ***
+please guess number and all digits must be different.Type "ON" to know the answer
+123
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         1                         0                        0                       0                           ***
+please guess number and all digits must be different.Type "ON" to know the answer
+456
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         2                         1                        0                       1                           ***
+please guess number and all digits must be different.Type "ON" to know the answer
+785
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         3                         1                        1                       0                           *8*
+please guess number and all digits must be different.Type "ON" to know the answer
+985
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         4                         2                        2                       0                           *8*
+please guess number and all digits must be different.Type "ON" to know the answer
+987
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         5                         2                        2                       0                           *8*
+please guess number and all digits must be different.Type "ON" to know the answer
+984
+Good job ,You guess is right :)
+You take 6 Number of guess
+The number is:984
+To be continue say continue or type "STOP" to stop
+2
+please tell me the size of number to generate it must be equal or grater than2 but less than or equal to 10
+2
+The number is : **
+please guess number and all digits must be different.Type "ON" to know the answer
+12
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         1                         0                        0                       0                           **
+please guess number and all digits must be different.Type "ON" to know the answer
+34
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         2                         1                        0                       1                           **
+please guess number and all digits must be different.Type "ON" to know the answer
+35
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         3                         0                        0                       0                           *8
+please guess number and all digits must be different.Type "ON" to know the answer
+46
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         4                         1                        1                       0                           *8
+please guess number and all digits must be different.Type "ON" to know the answer
+48
+Good job ,You guess is right :)
+You take 5 Number of guess
+The number is:48
+To be continue say continue or type "STOP" to stop
+continue
+please tell me the size of number to generate it must be equal or grater than2 but less than or equal to 10
+2
+The number is : **
+please guess number and all digits must be different.Type "ON" to know the answer
+12
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         1                         0                        0                       0                           **
+please guess number and all digits must be different.Type "ON" to know the answer
+34
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         2                         1                        0                       1                           **
+please guess number and all digits must be different.Type "ON" to know the answer
+35
+Number of guess         no. of right digits             right places            wrong places            HINT(RightDigitIs)
+         3                         0                        0                       0                           *6
+please guess number and all digits must be different.Type "ON" to know the answer
+46
+Good job ,You guess is right :)
+You take 4 Number of guess
+The number is:46
+To be continue say continue or type "STOP" to stop
+Stop
+ Thanks for playing this game :) :) 
+Your average performance  is 4
+PS C:\Users\gs882> 
